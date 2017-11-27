@@ -1,0 +1,5 @@
+# Data files should not be checked in
+data/
+
+# Jupyter files
+.ipynb_checkpoints
